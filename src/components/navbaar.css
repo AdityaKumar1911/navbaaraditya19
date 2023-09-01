@@ -1,0 +1,101 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ul li{
+	list-style: none;
+
+}
+
+.navall{
+	/* margin-top: 3rem; */
+	padding-top: 3rem;
+}
+a {
+	text-decoration: none;
+	color: aliceblue;
+  }
+
+#offcanvasDarkNavbar{
+	width: 100vw;
+	margin: 0;
+	padding: 0;
+}
+.navbar-brand img{
+	height: 6rem;
+}
+.inner-togle{
+	display: flex;
+	justify-content: space-evenly;
+	margin: auto;
+}
+.togel-left li{
+	padding: 2.5rem;
+}
+.togel-right li{
+	padding: 2.5rem;
+}
+
+
+
+/* hero section */
+
+.herosection{
+    /* background-color: blue; */
+    /* height: 100vh;
+    width: 100vw; */
+    /* display: flex;
+    justify-content: space-between; */
+   padding-top: 8rem;
+    /* height: 100vh; */
+    /* background-color: #0c0c0c; */
+    /* background-color: rgb(36,44,52); */
+    /* background-image: url("https://i.gifer.com/zUL.gif"); */
+	/* background-size: contain;
+  background-repeat: no-repeat; 
+  background-size: 100%;
+  overflow: hidden; */
+    /* background-color: rebeccapurple; */
+    /* display: block; */
+    /* width: 100%; */
+    /* background-image: url("https://i.gifer.com/zUL.gif"); */
+}
+
+
+
+.hero-left h1{
+    position: relative;
+    font-size: 68px;
+    font-weight: 900;
+    line-height: 1;
+    /* z-index: 1; */
+    color: white;
+}
+.hero-right a{
+  margin-left: auto;
+}
+
+#liicon li{
+    padding: 6px;
+    
+}
+.icons {
+  float: right;
+}
+
+.contactus {
+ display: flex;
+ justify-content: end;
+ margin-bottom: 15px;
+}
+.contactus a{
+  /* background: #1A1E23; */
+  padding: 10px;
+  border: 3px solid #8094af;
+  border-radius: 10px;
+  
+}
+.contactus :hover{
+  background-color: #1b9096;
+  /* border: black; */
+}
