@@ -93,7 +93,7 @@ function navbaar() {
             </div>
           </nav>
         </div>
-        
+{/*         
         <div className="keen-slider__slide number-slide1">
         <div className=" herosection">
           <div className="container   ">
@@ -143,7 +143,7 @@ function navbaar() {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }
