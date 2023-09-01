@@ -8,7 +8,7 @@ function heroTwo() {
         <div className="row">
           <div className="col-lg-6 sectionTwo-left">
             <h1 className="# ">We</h1>
-            <h1 className=" #">believe in</h1>
+            <h1 className=" #">Addityaaa</h1>
             <h1 className="# ">adding</h1>
             <h1 className="#">value.</h1>
           </div>
