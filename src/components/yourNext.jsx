@@ -3,9 +3,9 @@ import "./navbaar.css";
 
 function YourNext() {
   return (
-    <div className='your-next-part '>
+    <div className='your-next-part'>
          <div className="keen-slider__slide number-slide1">
-        <div className=" herosection">
+        <div className=" herosection ">
           <div className="container   ">
             <div className="row">
               <div className="col-lg-6 hero-left">

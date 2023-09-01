@@ -6,7 +6,7 @@ function navbaar() {
       <div className="navSection">
         <div className="navall">
           <nav class="navbar navbar-dark  ">
-            <div class="container">
+            <div class="container ">
               <a class="navbar-brand" href="#">
                 <img src="../img/logonav.png" alt="" />
               </a>

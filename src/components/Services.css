@@ -1,0 +1,51 @@
+.Services{
+    /* height: 100vh; */
+    /* background-color: #0c0c0c; */
+    /* background-color: blueviolet; */
+    overflow: hidden;
+}
+#services-text{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    margin-top: 6.5rem;
+}
+
+.card{
+    width: 250px;
+    height: 200px;
+    border: none;
+    background-color: #151414;
+    margin: 10px;
+}
+.card-body{
+   
+}
+.centerimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.cardtext{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    font-size: 1.1rem;
+}
+.firstrow .row{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.secondrow .row{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 2rem;
+}
+.card:hover {
+    cursor: pointer;
+    background-color: red ;
+    transition: 0.2s;
+}

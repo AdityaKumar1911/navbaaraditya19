@@ -6,6 +6,7 @@ import "./styles.css";
 import Navbaar from "./components/navbaar";
 import HeroTwo from "./components/heroTwo";
 import YourNext from "./components/yourNext";
+import Services from "./components/Services"
 
 const debounce = (fn, t) => {
   let timerId;
@@ -38,6 +39,7 @@ export default (props) => {
     <div className="keen-slider keen-slider--vertical docSlider">
     <YourNext />
       <HeroTwo/>
+      <Services/>
       {/* <div className="keen-slider__slide number-slide1">1</div>
       <div className="keen-slider__slide number-slide2">2</div>
       <div className="keen-slider__slide number-slide3"></div>

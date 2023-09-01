@@ -2,11 +2,11 @@ import "./heroTwo.css";
 
 function heroTwo() {
   return (
-    <div className="keen-slider__slide number-slide2">
+    <div className="keen-slider__slide number-slide2 ">
       <div className=" contain  ">
       <div className="container sectionTwo">
-        <div className="row">
-          <div className="col-lg-6 sectionTwo-left">
+        <div className="row ">
+          <div className="col-lg-6  sectionTwo-left">
             <h1 className="# ">We</h1>
             <h1 className=" #">Addityaaa</h1>
             <h1 className="# ">adding</h1>
